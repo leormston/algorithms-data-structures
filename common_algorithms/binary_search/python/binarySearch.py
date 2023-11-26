@@ -11,11 +11,11 @@ def binarySearch(key, arr):
 
     lo = 0
     hi = len(arr)
-    while(lo <= hi):
-        mid =  int((hi + lo) / 2)
+    while(lo < hi):
+        mid =  int(lo + (hi - lo) / 2)
         print(f'hi: {hi}, mid: {mid}, lo: {lo}')
         if key < arr[mid]:
-            hi = mid - 1
+            hi = mid 
         elif key > arr[mid]:
             lo = mid + 1
         elif key == arr[mid]:
