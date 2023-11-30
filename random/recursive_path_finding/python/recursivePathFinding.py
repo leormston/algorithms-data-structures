@@ -28,7 +28,7 @@ def walk(maze, wall, curr, end, seen, path):
     #4. At the end
     if(curr['x'] == end['x'] and curr['y'] == end['y']):
         path.append(end)
-        return path
+        return True
     
     #3. Already seen this block
     if(seen[curr['y']][curr['x']]):
@@ -45,7 +45,7 @@ def walk(maze, wall, curr, end, seen, path):
              wall, 
              {'x': curr['x'] + x, 'y': curr['y'] + y},
              end, seen, path):
-            return path
+            return True
 
 if __name__ == "__main__":
     print("Traversal Starting")
@@ -57,5 +57,5 @@ if __name__ == "__main__":
     seen = [[False for x in range(len(maze[0]))] for y in range(len(maze))]
     path = []
 
-    path = walk(maze, '#', {'x': 4, 'y': 0 }, {'x': 1, 'y': 2}, seen, path)
+    walk(maze, '#', {'x': 4, 'y': 0 }, {'x': 1, 'y': 2}, seen, path)
     print(path)
