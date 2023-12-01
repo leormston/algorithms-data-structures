@@ -46,13 +46,14 @@ cd algorithms-data-structures
 
 3. Run the file
 
-Python
+
 ```bash
+###running python scripts
 python3 <file_name>.py
 ```
 
-Java
 ```bash
+###running java scripts
 javac <file_name>.java
 java <file_name>
 ```
