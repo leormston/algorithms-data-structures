@@ -27,3 +27,32 @@ we can align on language versioning to reduce the chance of errors. I am using:
 ### Random Algorithms
 
 - [Recursive Path Finding](https://github.com/leormston/algorithms-data-structures/tree/main/random/recursive_path_finding)
+
+
+
+### How to run locally
+
+1. Clone the repo
+
+```bash
+git clone
+```
+
+2. Navigate to the directory
+
+```bash
+cd algorithms-data-structures
+```
+
+3. Run the file
+
+Python
+```bash
+python3 <file_name>.py
+```
+
+Java
+```bash
+javac <file_name>.java
+java <file_name>
+```
