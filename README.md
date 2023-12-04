@@ -21,9 +21,17 @@ we can align on language versioning to reduce the chance of errors. I am using:
 
 ### Data Structures
 
-- [Linked List Queue](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/ll_queue)
-- [Linked List Stack](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/ll_stack)
-- [Doubly Linked List](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/doubly_linked_list)
+#### Linked Lists
+
+- [Linked List Queue](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/linked_lists/ll_queue)
+- [Linked List Stack](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/linked_lists/ll_stack)
+- [Doubly Linked List](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/linked_lists/doubly_linked_list)
+
+#### Binary Trees
+
+- [Pre Order Traversal](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/pre_order_traversal)
+- [In Order Traversal](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/in_order_traversal)
+- [Post Order Traversal](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/post_order_traversal)
 
 ### Random Algorithms
 
