@@ -23,6 +23,7 @@ we can align on language versioning to reduce the chance of errors. I am using:
 
 - [Linked List Queue](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/ll_queue)
 - [Linked List Stack](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/ll_stack)
+- [Doubly Linked List](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/doubly_linked_list)
 
 ### Random Algorithms
 
