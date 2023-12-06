@@ -32,11 +32,12 @@ we can align on language versioning to reduce the chance of errors. I am using:
 - [Pre Order Traversal](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/pre_order_traversal)
 - [In Order Traversal](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/in_order_traversal)
 - [Post Order Traversal](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/post_order_traversal)
+- [Breadth First Search](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/breadth_first_search)
+- [Comparing Tree Structure](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/comparing_tree_structure)
 
 ### Random Algorithms
 
 - [Recursive Path Finding](https://github.com/leormston/algorithms-data-structures/tree/main/random/recursive_path_finding)
-
 
 
 ### How to run locally
