@@ -1,5 +1,3 @@
-import java.util.LinkedList;
-
 class LinkedListQueue {
     Node head;
     Node tail;
