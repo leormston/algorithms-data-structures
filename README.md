@@ -36,7 +36,8 @@ we can align on language versioning to reduce the chance of errors. I am using:
 - [Depth First Search](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/depth_first_search)
 - [Comparing Tree Structure](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/comparing_tree_structure)
 
-
+#### Heaps
+- [Heaps](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/heaps)
 ### Random Algorithms
 
 - [Recursive Path Finding](https://github.com/leormston/algorithms-data-structures/tree/main/random/recursive_path_finding)
