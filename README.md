@@ -37,7 +37,13 @@ we can align on language versioning to reduce the chance of errors. I am using:
 - [Comparing Tree Structure](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/trees/comparing_tree_structure)
 
 #### Heaps
+
 - [Heaps](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/heaps)
+
+#### Graphs
+- [bfs adjacency matrix](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/bfs_adjacency_matrix)
+- [dfs_adjacency_list](https://github.com/leormston/algorithms-data-structures/tree/main/data_structures/dfs_adjacency_list)
+
 ### Random Algorithms
 
 - [Recursive Path Finding](https://github.com/leormston/algorithms-data-structures/tree/main/random/recursive_path_finding)
