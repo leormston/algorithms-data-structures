@@ -6,6 +6,14 @@ we can align on language versioning to reduce the chance of errors. I am using:
 - Python 3.10.10
 - Java 21.0.1
 
+## Thanks to
+
+Most of the algorithms and data structures are from the following course which I followed during the creation of this repo:
+
+- [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/introduction/)
+
+## Table of Contents
+
 ## Algorithms
 
 ### Sorting Algorithms
